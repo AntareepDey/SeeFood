@@ -44,7 +44,7 @@ After training for few epochs (15 to be exact):
 
 <h3>The final loss stood at :0.083 or about 91.7% accuracy. This is around 10% more than what I was getting by training on existing datasets.</h3>
 
-I've also used the LANCZOS downsampler instead of the ANTIALIAS simply because it's better at downsampling any resolution you throw at it. Also used pytorch for model training.The model is included as ```detecttion.pt``.
+I've also used the LANCZOS downsampler instead of the ANTIALIAS simply because it's better at downsampling any resolution you throw at it. Also used pytorch for model training.The model is included as ```detecttion.pt```.
 
 
 ## Screenshots 
